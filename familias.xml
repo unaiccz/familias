@@ -1,0 +1,23 @@
+﻿<families xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNameSpaceSchemaLocation="familia.xsd">
+    <family code="F001">
+        <father>John Doe</father>
+        <mother>Jane Doe</mother>
+    </family>
+    <family code="F002">
+        <father>Richard Roe</father>
+        <mother>Mary Roe</mother>
+    </family>
+    <family code="F003">
+        <father>James Smith</father>
+        <mother>Patricia Smith</mother>
+    </family>
+    <family code="F004">
+        <father>Robert Johnson</father>
+        <mother>Jennifer Johnson</mother>
+    </family>
+    <family code="F005">
+        <father>Michael Williams</father>
+        <mother>Linda Williams</mother>
+    </family>
+</families>
